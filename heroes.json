@@ -1,0 +1,61 @@
+{
+  "heroes": [
+    {
+      "id": "ebc01edd-0dd4-447d-a364-ccd2d9aa7d18",
+      "name": "tewt34t",
+      "description": "3453t4",
+      "element": "fire"
+    },
+    {
+      "id": "76ffb3cf-0cae-44fa-96a9-fa75f0907965",
+      "name": "55645",
+      "description": "456456",
+      "element": "wind"
+    },
+    {
+      "id": "d856d977-edd7-47d8-b34f-412bdeb4907e",
+      "name": "56",
+      "description": "567",
+      "element": "fire"
+    },
+    {
+      "id": "071287e1-effd-4a27-9541-a3fb9534377c",
+      "name": "tyutyu",
+      "description": "tyutyu",
+      "element": "water"
+    },
+    {
+      "id": "0846572c-0eb9-4e82-bd93-2131597ca549",
+      "name": "trrt",
+      "description": "rty",
+      "element": "wind"
+    }
+  ],
+  "filters": [
+    {
+      "id": 1,
+      "name": "all",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": 2,
+      "name": "fire",
+      "className": "btn-outline-danger"
+    },
+    {
+      "id": 3,
+      "name": "water",
+      "className": "btn-outline-primary"
+    },
+    {
+      "id": 4,
+      "name": "wind",
+      "className": "btn-outline-success"
+    },
+    {
+      "id": 5,
+      "name": "earth",
+      "className": "btn-outline-secondary"
+    }
+  ]
+}
